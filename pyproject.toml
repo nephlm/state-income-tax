@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "state-income-tax"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["openpyxl~=3.1.5"]
+classifiers = ["License :: OSI Approved :: MIT License"]
+
+[project.optional-dependencies]
+dev = ["ipython", "pylint", "isort", "ruff"]
+
+[project.scripts]
+tax-ingest = "state_income_tax.ingest:main"

@@ -1,0 +1,1 @@
+* https://taxfoundation.org/data/all/state/state-income-tax-rates-2024/
