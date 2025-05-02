@@ -45,7 +45,7 @@
                 "none"
             ]
         },
-        "AZ ": {
+        "AZ": {
             "single": [
                 {
                     "rate": 0.025,
@@ -178,7 +178,7 @@
             ],
             "notes": []
         },
-        "CO ": {
+        "CO": {
             "single": [
                 {
                     "rate": 0.044,
@@ -436,7 +436,7 @@
             ],
             "notes": []
         },
-        "ID ": {
+        "ID": {
             "single": [
                 {
                     "rate": 0.058,
@@ -466,7 +466,7 @@
             ],
             "notes": []
         },
-        "IN ": {
+        "IN": {
             "single": [
                 {
                     "rate": 0.0305,
@@ -512,7 +512,7 @@
             ],
             "notes": []
         },
-        "KS ": {
+        "KS": {
             "single": [
                 {
                     "rate": 0.031,
@@ -714,7 +714,7 @@
             ],
             "notes": []
         },
-        "MI ": {
+        "MI": {
             "single": [
                 {
                     "rate": 0.0425,
@@ -729,7 +729,7 @@
             ],
             "notes": []
         },
-        "MN ": {
+        "MN": {
             "single": [
                 {
                     "rate": 0.0535,
@@ -915,14 +915,14 @@
                 "none"
             ]
         },
-        "NH ": {
+        "NH": {
             "single": [],
             "married": [],
             "notes": [
                 "3% on interest and dividends only"
             ]
         },
-        "NJ ": {
+        "NJ": {
             "single": [
                 {
                     "rate": 0.014,
@@ -1180,7 +1180,7 @@
             ],
             "notes": []
         },
-        "OK ": {
+        "OK": {
             "single": [
                 {
                     "rate": 0.0025,
@@ -1274,7 +1274,7 @@
             ],
             "notes": []
         },
-        "PA ": {
+        "PA": {
             "single": [
                 {
                     "rate": 0.0307,
@@ -1364,7 +1364,7 @@
                 "none"
             ]
         },
-        "UT ": {
+        "UT": {
             "single": [
                 {
                     "rate": 0.0465,
@@ -1464,7 +1464,7 @@
                 "7.0% on capital gains income only"
             ]
         },
-        "WV ": {
+        "WV": {
             "single": [
                 {
                     "rate": 0.0236,
